@@ -1,9 +1,9 @@
 ---
 title: Hakkımda
-permalink: /about.html
+permalink: /hakkimda.html
 ---
 
-Merhaba, Ben Esra. İstanbul'da yaşayan yazılım geliştiren bir bilgisayar mühendisiyim. Uzmanlık alanlarım JavaScript ve Front-End Development. Back-End tarafında Java ve NodeJS, Mobil tarafta Swift ve Android yazmışlığım var. 
+Merhaba, Ben Esra. İstanbul'da yaşayan yazılım geliştiren bir bilgisayar mühendisiyim. Uzmanlık alanlarım JavaScript ve Front-End Development.
 
 Machine Learning üzerine çalışmalar yapmak istiyorum. 
 
