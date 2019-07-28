@@ -18,4 +18,4 @@ Benimle ilgili daha fazlası için aşağıya bakınız.
 
 ### iletişim
 - <a href="https://twitter.com/altintasesra">@altintasesra</a>
-- <a href="https://www.instagram.com/esraltintass">@esraltintass</a>
+- <a href="https://instagram.com/esraltintass">@esraltintass</a>
