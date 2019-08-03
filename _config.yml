@@ -2,12 +2,18 @@
 name                  : 'esra'
 surname               : 'altintas'
 fullname              : 'esraltintas'
-fullname_human        : 'Esra Altıntaş'
+fullname_human        : 'Esra Altintas'
 domain                : 'http://esra.dev'
 
+# Open Graph
+og_image              : 'general/og_image_default.png'
+
+# Paths
+paths                 : 
+  images              : '/assets/images/'
 
 # Info
-description           : "Esra Altıntaş'ın kişisel web sitesi"
+description           : "Esra Altıntaş'ın kişisel web sitesi."
 keywords              : 'javascript, ecmascript, es6'
 
 # System
@@ -38,3 +44,16 @@ defaults:
       type            : 'pages'
     values            :
       layout          : 'page'
+  -
+    scope            :
+      path            : ''
+      type            : 'posts'
+    values            :
+      layout          : 'post'
+
+  -
+    scope            :
+      path            : ''
+      type            : 'drafts'
+    values            :
+      layout          : 'post'
