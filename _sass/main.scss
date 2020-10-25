@@ -29,8 +29,10 @@ body {
 }
 
 a {
-  color: #268bd2;
+  cursor: pointer;
+  color: #000;
   text-decoration: none;
+  border-bottom: 2px solid #000;
   
   &:hover,
   &:focus {
