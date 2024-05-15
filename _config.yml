@@ -1,40 +1,38 @@
 # General
-name                  : 'esra'
-surname               : 'altintas'
-fullname              : 'esraltintas'
-fullname_human        : 'Esra Altintas'
-domain                : 'http://esra.dev'
-
+name: "esra"
+surname: "aydemir"
+fullname: "esraaydemir"
+fullname_human: "Esra Aydemir"
+domain: "http://esra.dev"
 
 # Info
-description           : "Esra Altıntaş'ın kişisel web sitesi."
-keywords              : 'javascript, ecmascript, es6'
+description: "Esra Aydemir'in kişisel web sitesi."
+keywords: "javascript, ecmascript, es6"
 
 # System
-timezone              : 'Europe/Istanbul'
-include               : ['_pages']
+timezone: "Europe/Istanbul"
+include: ["_pages"]
 
 # Filtering Content
-show_drafts           : null
-limit_posts           : 0
+show_drafts: null
+limit_posts: 0
 
 # Conversion
-markdown              : kramdown
-excerpt_separator     : <!--more-->
+markdown: kramdown
+excerpt_separator: <!--more-->
 
 # Outputting
-baseurl               : ''
-permalink             : :title.html
+baseurl: ""
+permalink: :title.html
 
 # Sass
-sass                  :
-  style               : :compressed
+sass:
+  style: :compressed
 
 # Scopes
 defaults:
-  - 
-    scope             :
-      path            : ''
-      type            : 'pages'
-    values            :
-      layout          : 'page'
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
